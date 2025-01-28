@@ -1,0 +1,6 @@
+name=input("enter your name: ")
+age=input("enter your age: ")
+hight=input("enter your hight: ")
+print(name=="lasha")
+print(age>"18")
+print(hight>"1.80")

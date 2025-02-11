@@ -10,6 +10,6 @@ start=int(input("enter number1: "))
 end=int(input("enter number2: "))
 for i in range(start,end):
     print(i)
-name=input("enter your name")
+name=input("enter your name: ")
 for i in name:
     print(i)

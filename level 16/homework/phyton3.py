@@ -1,0 +1,11 @@
+print(132>31)
+print(45 == 54)
+print(53<343) 
+print(34==2)
+print(2>2323322323332)
+
+print(7+8)
+print(34-3)
+print(9//9)
+print(1*7)
+print(7+7)

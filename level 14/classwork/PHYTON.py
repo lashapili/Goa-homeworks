@@ -6,3 +6,7 @@ print(47384 >=38293)
 num1=int(input("enter your favorit number1:  "))
 num2=int(input("enter your favorit number2:  "))
 print(num1 + num2)
+
+num1=12
+num2=int(input("enter your favorit num2:  "))
+print(num1 == num2)

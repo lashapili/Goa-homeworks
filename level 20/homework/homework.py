@@ -7,12 +7,21 @@ if yourname=="lasha" :
     print("hello")
 else:
     print("bye")
-num=int(input("enter num: "))
-if num>=90:
+score=int(input("enter score: "))
+if score>=90:
     print("A")
-elif num >= 70   :
+elif score >= 70   :
     print("B")
-elif num >= 50:
+elif score >= 50:
     print("C")
 else:
     print("D")
+
+
+
+while i <= 100:
+    if i % 2 == 0:
+        print(i, "is Even!")
+    else:
+        print(i, "is Odd!")
+    i = i + 1
